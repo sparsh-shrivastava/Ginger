@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ginger.iml" filepath="$PROJECT_DIR$/Ginger.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidebutton/slidebutton.iml" filepath="$PROJECT_DIR$/slidebutton/slidebutton.iml" />
     </modules>
   </component>
 </project>
